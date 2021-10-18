@@ -8,6 +8,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+goorm.manifest
+.exprc
 
 # macOS
 .DS_Store
